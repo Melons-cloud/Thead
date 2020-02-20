@@ -1,4 +1,4 @@
-package com.hemukeji.demo1;
+package com.hemukeji.demo01;
 
 
 //多个线程操作同一对象

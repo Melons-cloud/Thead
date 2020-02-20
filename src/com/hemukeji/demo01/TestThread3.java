@@ -1,4 +1,4 @@
-package com.hemukeji.demo1;
+package com.hemukeji.demo01;
 
 
 //实现Runnable接口，实现线程，重写run方法，执行线程，丢入Runnable接口实现类

@@ -1,4 +1,4 @@
-package com.hemukeji.demo1;
+package com.hemukeji.demo01;
 
 //线程开启不一定立即执行，由CPU调度执行。由run()方法先执行，无随机执行。
 //创建线程的方式:继承Thread类，重写run()方法,调用start()方法开启线程
