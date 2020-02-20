@@ -4,6 +4,9 @@ public class StaticProxy {
 
     public static void main(String[] args) {
 
+//        You you = new You();   //你要结婚
+//        you.HappyMarry();
+
         WeddingCompany weddingCompany = new WeddingCompany(new You());
         weddingCompany.HappyMarry();
     }
