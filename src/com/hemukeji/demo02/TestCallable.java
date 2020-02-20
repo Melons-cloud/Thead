@@ -57,8 +57,8 @@ public class TestCallable implements Callable<Boolean> {
         Future<Boolean> r3 = ser.submit(t3);
         //获取结果
         boolean rs1=r1.get();
-        boolean rs2=r1.get();
-        boolean rs3=r1.get();
+        boolean rs2=r2.get();
+        boolean rs3=r3.get();
         //关闭服务
         ser.shutdownNow();
     }
