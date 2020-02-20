@@ -6,7 +6,7 @@ public class StaticProxy {
     public static void main(String[] args) {
 
 
-        new Thread( ()-> System.out.println("我爱你")).start();
+//        new Thread( ()-> System.out.println("我爱你")).start();
 
 //        You you = new You();   //你要结婚
 //        you.HappyMarry();
