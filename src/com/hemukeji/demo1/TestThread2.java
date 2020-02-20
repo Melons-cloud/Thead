@@ -6,7 +6,7 @@ import org.apache.commons.io.FileUtils;
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
-
+//Runnable接口，一个线程跑多个对象。Thread类，一个线程跑一个对象
 //Thread，实现多线程同步下载图片
 public class TestThread2 implements Runnable {
 
