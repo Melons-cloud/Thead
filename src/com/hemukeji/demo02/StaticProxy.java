@@ -1,5 +1,5 @@
 package com.hemukeji.demo02;
-
+//真实对象和代理对象都要实现同一个接口，代理对象必须代理真实角色
 public class StaticProxy {
 
     public static void main(String[] args) {
