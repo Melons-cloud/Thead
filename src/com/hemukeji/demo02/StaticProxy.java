@@ -29,6 +29,7 @@ class You implements Marry{
 //代理角色,帮助你结婚
 class WeddingCompany implements Marry{
 
+    //真实目标角色
     private Marry target;
 
     //构造方法
